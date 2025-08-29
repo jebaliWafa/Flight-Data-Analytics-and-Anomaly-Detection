@@ -15,13 +15,13 @@ Both projects focus on building **scalable flight data pipelines**, but each has
 
 ## Objectives  
 
-### Project 1: Real-Time Data Pipeline  
+### Project 1: Real-Time Flight Data Analytics Pipeline on Azure 
 - Build a real-time processing pipeline using Azure services  
 - Optimize performance & cost for continuous streaming  
 - Secure data with encryption and access controls  
 - Visualize real-time flight data insights  
 
-### Project 2: Flight Data Analytics and Anomaly Detection  
+### Project 2: Real-Time Flight Data Analytics and Anomaly Detection With Spark on Azure 
 - Process flight data in both streaming and batch modes  
 - Detect anomalies in flight patterns with Spark MLlib  
 - Analyze flight networks using GraphFrames  

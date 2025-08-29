@@ -1,4 +1,4 @@
-# Flight Data Analytics Pipeline
+# Flight Data Analytics and Anomaly Detection
 
 ## Overview  
 This repository contains two projects developed to process and analyze real-time flight data from the **OpenSky API** using **Azure services** and **Apache Spark**.  
